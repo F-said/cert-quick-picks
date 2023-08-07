@@ -71,5 +71,21 @@ Thursday and Friday have the most job postings on average!
 ![stackedTools](/resources/images/day_bar.png)  
 *Average number of job postings from 2023-01 to 2023-08*
 
+## Next Actions
 
+Now that I have some visualizations and initial data-cleaning steps planned out, I should go ahead and begin engineering a dashboard.
 
+It should be composed of the following visualizations to benefit me and my team:
+
+* Pie chart of languages requested for the past month (filters on time-frame on stacked area chart)
+* Pie chart of cloud management tools requested for the past month (filters on time-frame on stacked area chart)
+* Pie chart of visualization tools requested for the past month (filters on time-frame on stacked area chart)
+* Pie chart of db solutions requested for the past month (filters on time-frame on stacked area chart)
+* Stacked area chart of all jobs that describe:
+    * cloud tools
+    * visualization tools
+    * db tools
+    * languages
+    * level requested
+* A cluster of job data points expressed on a 2D axis that measures analysis vs data-hosting requirements. 
+* (optional) An option to upload resume and have your resume point to be grouped into specific data point. 
